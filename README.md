@@ -86,7 +86,7 @@ Această aplicație web este un exemplu complet de sistem de autentificare și g
 
 6. Rulează aplicația:
     ```bash
-    npm start
+    node server.js
     ```
 
 7. Accesează aplicația în browser la adresa:
