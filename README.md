@@ -59,7 +59,7 @@ Această aplicație web este un exemplu complet de sistem de autentificare și g
 
 1. Clonează acest repository:
     ```bash
-    git clone [https://github.com/utilizator/proiect-autentificare.git](https://github.com/dnx01/System-Authentication-and-registration-and-password-reset-V2.git)
+    git clone https://github.com/dnx01/System-Authentication-and-registration-and-password-reset-V2.git
     ```
 
 2. Accesează directorul proiectului:
