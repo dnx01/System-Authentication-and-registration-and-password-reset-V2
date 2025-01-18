@@ -64,7 +64,7 @@ Această aplicație web este un exemplu complet de sistem de autentificare și g
 
 2. Accesează directorul proiectului:
     ```bash
-    cd proiect-autentificare
+    cd System-Authentication-and-registration-and-password-reset-V2
     ```
 
 3. Instalează dependențele:
@@ -81,7 +81,7 @@ Această aplicație web este un exemplu complet de sistem de autentificare și g
 
 5. Asigură-te că MongoDB este pornit:
     ```bash
-    mongod
+    mongodb
     ```
 
 6. Rulează aplicația:
